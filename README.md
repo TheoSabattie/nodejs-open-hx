@@ -6,5 +6,5 @@ Haxe externs for open (https://github.com/pwnall/node-open)
 ## Download & Set Up
 openjs-hx on **haxelib**:
 ```
-haxelib install openjs-hx
+haxelib install nodejs-open
 ```
