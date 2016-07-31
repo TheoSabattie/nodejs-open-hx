@@ -1,0 +1,15 @@
+{
+	"name": "nodejs-open",
+	"license": "MIT",
+	"tags": ["js", "haxe", "extern", "nodejs", "open"],
+	"description": "Haxe externs for open (nodejs library)",
+	"contributors": ["theo_sabattie"],
+	"releasenote": "Release version of open",
+	"version": "1.0.0",
+	"url": "https://github.com/TheoSabattie/nodejs-open-hx",
+    "targets":["js"],
+    "classPath": "src",
+	"dependencies": {
+
+	}
+}
